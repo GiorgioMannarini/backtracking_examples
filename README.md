@@ -6,4 +6,4 @@
 
 Note: for the Knight Tour problem, a backtracking algorithm does not represent the best solution.
 
-_UI not coded yet, these files have the sole purpose of demonstrate how backtracking algorithms works with some examples, after a morning of study_
+_UI not coded yet, these files have the sole purpose of demonstrate how backtracking algorithms work, with the help of some examples coded after a morning of study_
