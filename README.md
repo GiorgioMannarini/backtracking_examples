@@ -5,3 +5,5 @@
 - Solving the Knight Tour problem
 
 Note: for the Knight Tour problem, a backtracking algorithm does not represent the best solution.
+
+_UI not coded yet, these files have the sole purpose of demonstrate how backtracking algorithms works with some examples, after a morning of study_
