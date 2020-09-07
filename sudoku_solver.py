@@ -43,6 +43,7 @@ def solve(board, N):
             board[i][j] = num
             if solve(board, N):
                 return True
+            #Going back
             board[i][j] = 0
     return False
 

@@ -15,6 +15,7 @@ def solve(board, k_i, k_j, val, move_x, move_y, N):
             board[m_i][m_j] = val
             if solve(board, m_i, m_j, val+1, move_x, move_y, N):
                 return True
+            #Going back
             board[m_i][m_j] = -1
     return False
     
