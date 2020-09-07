@@ -1,4 +1,4 @@
-# backtracking_examples
+# Backtracking Examples
 #### Some examples of typical problems solved using backtracking algorithms.
 
 - Sudoku Solver
